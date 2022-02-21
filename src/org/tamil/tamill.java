@@ -5,7 +5,9 @@ public class tamill {
 	private void Tamil() {
 		System.out.println("Tamil");
 	}
-	
+	private void English() {
+		System.out.println("English");
+	}
 	private void Maths() {
 		System.out.println("Maths");
 	}
